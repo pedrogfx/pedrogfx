@@ -1,4 +1,5 @@
-### Hi there 👋
+![Github](https://github.com/pedrogfx/pedrogfx/blob/master/assets/pedrogfx.svg)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrogfx&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff)
 
 <!--
 **pedrogfx/pedrogfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

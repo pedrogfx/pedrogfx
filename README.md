@@ -1,6 +1,6 @@
 ![Github](https://github.com/pedrogfx/pedrogfx/blob/master/assets/Profile.svg)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrogfx&theme=buefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogfx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://git-stats.willianrod.com/api?username=pedrogfx&theme=buefy&show_icons=true)
+[![Top Langs](https://git-stats.willianrod.com/api/top-langs/?username=pedrogfx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

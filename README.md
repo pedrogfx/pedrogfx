@@ -1,5 +1,5 @@
 ![Github](https://github.com/pedrogfx/pedrogfx/blob/master/assets/Profile.svg)
-![Anurag's github stats](https://git-stats.willianrod.com/api?username=pedrogfx&theme=buefy&show_icons=true)
+![Github readme stats](https://git-stats.willianrod.com/api?username=willianrod&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff&hide_border=true)
 [![Top Langs](https://git-stats.willianrod.com/api/top-langs/?username=pedrogfx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

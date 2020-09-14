@@ -11,8 +11,8 @@
 - 🎧 **[Spotify](https://open.spotify.com/user/12127528476)**
 
 #
-[![Top Langs](https://git-stats.willianrod.com/api/top-langs/?username=pedrogfx&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
-![Github readme stats](https://git-stats.willianrod.com/api?username=willianrod&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff&hide_border=true)
+
+![Github readme stats](https://git-stats.willianrod.com/api?username=pedrogfx&count_private=true&hide_title=true&show_icons=true&include_all_commits=true&icon_color=0366d6&bg_color=ffffff&hide_border=true)    ![](https://git-stats.willianrod.com/api/top-langs/?username=pedrogfx&layout=compact&hide_border=true)
 
 
 <!--

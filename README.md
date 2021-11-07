@@ -1,6 +1,6 @@
 # Hey!
 
-- 💻 Studying Systems Analysis at UniRitter and working at RCI Consulting as a Business Analysis Developer and Always looking to learn about new technologies;
+- 💻 Studying Systems Analysis at UniRitter and working at RCI Consulting as a Data Analyst and Always looking to learn about new technologies;
 - </> Currently, I have dedicated myself a lot to learn about new technologies, like JavaScript and Python;
 - 🎮 Passionate about video games and music;
 

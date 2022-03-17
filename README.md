@@ -13,7 +13,7 @@
 #
 <div align="center">
     <a href="https://github.com/pedrogfx">
-  ![Github readme stats](https://git-stats.willianrod.com/api?username=pedrogfx&show_icons=true&theme=dark&include_all_commits=true)
+  <img height="150em" src="https://git-stats.willianrod.com/api?username=pedrogfx&show_icons=true&theme=dark&include_all_commits=true"/>
 </div>
   
   

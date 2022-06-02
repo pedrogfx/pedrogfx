@@ -1,7 +1,7 @@
 # Hey!
 
-- 💻 Data Engineering
-- </> Currently, I have dedicated myself a lot to learn about new technologies, like JavaScript and Python;
+- 💻 Data Engineering;
+- </> Currently, I have dedicated myself a lot to learn about new technologies;
 - 🎮 Passionate about video games and music;
 
 #

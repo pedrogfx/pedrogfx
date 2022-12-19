@@ -1,8 +1,6 @@
 # Hey!
 
-- 💻 Data Engineering;
-- </> Currently, I have dedicated myself a lot to learn about new technologies;
-- 🎮 Passionate about video games and music;
+Data Engineer focus in cloud architectures and data stacks. I've been working with data since 2019 and my main experiences have been building robust data pipelines with Python, Kafka, PySpark and Airflow.
 
 #
 <div align="center">

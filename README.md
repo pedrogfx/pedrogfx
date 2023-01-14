@@ -1,6 +1,8 @@
 # Hey!
 
-Data Engineer focus in cloud architectures and data stacks. I've been working with data since 2019 and my main experiences have been building robust data pipelines with Python, Kafka, PySpark and Airflow.
+I have been working with data since 2019, and have gained extensive experience in utilizing tools such as Python, Kafka, PySpark, and Airflow to design and implement data pipelines. My expertise in these technologies allows me to quickly and effectively process large amounts of data, while ensuring data quality and integrity.
+
+Find me!
 
 #
 <div align="center">

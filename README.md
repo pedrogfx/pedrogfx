@@ -1,6 +1,8 @@
 # Hey!
 
-I have been working with data since 2019, and have gained extensive experience in utilizing tools such as Python, Kafka, PySpark, and Airflow to design and implement data pipelines. My expertise in these technologies allows me to quickly and effectively process large amounts of data, while ensuring data quality and integrity.
+I have been working with data since 2019 and have always been passionate about software development. Over the past few years, I had the opportunity to specialize in data technologies aimed at cloud-based data platforms, contributing to end-to-end pipelines—from ingestion and processing to analytics.
+
+Currently, my main skills include Python, PySpark (Spark), SQL, web scraping, data modeling, Airflow, GCP, AWS, Kafka, Git, Docker, Kubernetes, and Terraform (IaC), among other frameworks. I focus on creating scalable, efficient, and robust data solutions that drive tangible business results.
 
 Find me!
 

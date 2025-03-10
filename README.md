@@ -10,3 +10,7 @@ Find me!
 <div align="center">
         <a href="https://www.linkedin.com/in//pedro-goulart-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="center">
+        <a href="https://wakatime.com/@pedrogfx" target="_blank"><img src="https://wakatime.com/badge/user/e2c8785d-914b-422a-b1a6-491fe06f6d6d.svg" target="_blank"></a> 
+</div>

@@ -1,10 +1,10 @@
 # Hey!
 
-I have been working with data since 2019 and have always been passionate about software development. Over the past few years, I had the opportunity to specialize in data technologies aimed at cloud-based data platforms, contributing to end-to-end pipelines—from ingestion and processing to analytics.
+I'm a Senior Data Engineer / Data Platform Engineer passionate about building scalable, reliable, and cloud-native data platforms.
 
-Currently, my main skills include Python, PySpark (Spark), SQL, web scraping, data modeling, Airflow, GCP, AWS, Kafka, Git, Docker, Kubernetes, and Terraform (IaC), among other frameworks. I focus on creating scalable, efficient, and robust data solutions that drive tangible business results.
+Since 2019, I've been designing and operating data solutions across the entire data lifecycle from ingestion and streaming to transformation, orchestration, and analytics. My focus is on developing production-grade platforms that prioritize scalability, reliability, observability, and cost efficiency.
 
-Find me!
+Currently, I work with large-scale data platforms processing tens of terabytes of data daily, building both batch and real-time pipelines, improving platform reliability, and enabling data-driven products through modern cloud technologies.
 
 #
 <div align="center">
